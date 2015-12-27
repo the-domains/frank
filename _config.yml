@@ -2,6 +2,7 @@ name: Frank
 favicon: null
 layout_spectrum: 0.76203
 typography_spectrum: 0.67477
+title: Frank
 cta:
   domain: null
   bucket: null
